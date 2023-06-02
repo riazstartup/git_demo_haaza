@@ -7,6 +7,8 @@
 
 # This is also a single-line comment
 ?>
-
+<h2>
+    Register User:
+</h2>
 </body>
 </html>
